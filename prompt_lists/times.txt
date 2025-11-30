@@ -1,0 +1,15 @@
+Times
+1. Afternoon
+2. Evening
+3. Late at Night
+4. Midnight
+5. Sunrise / Sunset
+6. Summertime (and the Livin' is Easy)
+7. Winter
+8. Spring
+9. Autumn
+10. Early Morning
+12. The Early Hours before Dawn
+13. Past, Present, Future
+14. May Morning
+15. Dusk

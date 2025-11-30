@@ -1,0 +1,239 @@
+Urban Dead Prompts
+1. Shopping
+2. Bargain Hunting
+3. Body Building
+4. Tagging
+5. Construction
+6. Radio Operation
+7. Axe Proficiency
+8. Pistol Training
+9. Shotgun Training
+10. Hand to Hand Combat
+11. Knife Combat
+12. Free Running
+13. Scout Safehouse
+14. NecroTech Employment
+15. Lab Experience
+16. NecroNet Access
+17. First Aid
+18. Surgery
+19. Diagnosis
+20. Headshot
+21. Scent Fear
+22. Scent Blood
+23. Scent Trail
+24. Scent Death
+25. Digestion
+26. Infectious Bite
+27. Vigor Mortis
+29. Neck Lurch
+20. Death Grip
+21. Rend Flesh
+22. Tangling Grasp
+23. Feeding Drag
+24. Memories of Life
+25. Death Rattle
+26. Feeding Groan
+27. Bellow
+28. Ransack
+29. Flailing Gesture
+30. Lurching Gait
+31. Ankle Grab
+32. Brain Rot
+33. Flesh Rot
+34. Battle of Blackmore
+35. Siege of Caiger Mall
+36. March of the Dead
+37. Quartly Study Group
+38. Philosophe Knights
+39. RRF
+40. The Fortress
+41. Feral Undead
+42. The Dead
+43. Dual Nature
+44. Militant Order of Barhah
+45. Army Control Corps
+46. DHPD
+47. Squadron1111
+48. Creedy Defense Force
+49. Caiger Mall Survivors
+50. Knights Templar
+51. DEM
+52. Malton College of Medicine
+53. Malton Zookeepers
+54. Soldiers of Crossman
+55. Rotter's Relief
+56. Cobra
+57. Umbrella Corporation
+58. The Randoms
+59. The Kilt Store
+60. Yagoton Revivification Clinic
+61. Malton Rangers
+62. Channel 4 News Team
+63. Malton Police Department
+64. 10 Minutes from Hell
+65. Malton Restoration Society
+66. Minions of the Apocalypse
+67. Shacknews
+68. The Shining Ones
+69. Malton Fire Department
+70. The Big Prick
+71. Escape
+72. The Malton Globetrotters
+73. The Burchell Arms Regulars
+74. Axes High
+75. On Strike
+76. Council of Leaders
+77. Flowers of Disease
+78. Mall Tour
+79. The Big Bash
+80. The Dark Order of Armageddon
+81. The Gingerbread Men
+82. Brains
+83. Barhah
+84. Barricade Plan
+85. Billboard
+86. Bloodstains
+87. Border
+88. Bounty Hunters
+89. Combat Revive
+90. Dark
+91. Death cultist
+92. Decay
+93. Dumping Bodies
+94. GKer
+95. Green
+96. Infection
+97. KOS
+98. Life Cultist
+99. Mall Rat
+100. Meatshield
+101. Mercenary
+102. Mrh?
+103. Necrotech
+104. PKer
+105. Parachuting
+106. Pinata
+107. Repair
+108. Revivification
+109. Ruin
+110. Rogues' Gallery
+111. Safehouse
+112. Siege
+113. Sleeping
+114. Stand up
+115. Survivor
+116. Suburb
+117. TRP
+118. Zombie
+119. Zombie Spy
+120. Beer
+121. Book
+122. Crucifix
+123. Newspaper
+124. Poetry Book
+125. Stale Candy
+125. Wine
+127. Wirecutters
+128. Crowbar
+129. Baseball Bat
+130. Length of Pipe
+131. Knife
+132. Fire Axe
+133. Cricket Bat
+134. Fencing Foil
+135. Golf Club
+136. Hockey Stick
+137. Pool Cue
+138. Ski Pole
+139. Tennis Racket
+140. Pistol
+141. Shotgun
+142. Flare Gun
+143. Shotgun Shell
+144. Pistol Clip
+145. Binoculars
+146. DNA Extractor
+147. First Aid Kit
+148. Flak Jacket
+149. Fuel Can
+150. GPS Unit
+151. Mobile Phone
+152. Syringe
+153. Portable Generator
+154. Radio
+155. Radio Transmitter
+156. Spray Can
+157. Toolbox
+158. Glass Piece
+159. Painting
+160. Sculpture
+161. Skeleton
+162. Statue
+163. Stuffed Animal
+164. Tapestry
+165. Christmas Lights
+166. Dead Fir Tree
+167. Plastic Christmas Tree
+168. Pumpkin
+169. Military
+170. Scientist
+171. Civilian
+172. St. Matthew's Cathedral
+173. St. Mark's Cathedral
+174. St. Luke's Cathedral
+175. St. John's Cathedral
+176. St. Jude's Cathedral
+177. Cathedral
+178. Church
+179. Mall
+180. Caiger Mall
+181. Alner Mansion
+182. Curton Mansion
+183. Kersley Mansion
+184. Pitman Mansion
+185. Southall Mansion
+186. "Mansion
+187. Krinks Power Station
+188. Tolman Power Station
+189. Power Station
+190. Stadium
+191. Clapton Stadium
+192. Floyde Stadium
+193. Rodges Stadium
+194. Fort Creedy
+195. Fort Perryn
+196. Fort
+197. City Zoo
+198. Auto Repair Shop
+199. Bank
+200. Necrotech Building
+201. Blackmore Building
+202. Cinema
+203. Club
+204. Factory
+205. Fire Station
+206. Hospital
+207. Hotel
+208. Junkyard
+209. Library
+210. Museum
+211. Police Department
+212. Public House
+213. Railway Station
+214. School
+215. Tower
+216. Warehouse
+217. Mobile Phone Mast
+218. Carpark
+219. Cemetary
+220. Monument
+221. Park
+222. Street
+223. Barricade
+224. Wasteland
+225. Revive Point
+226. Radio Frequency
+227. Searching
+228. Teeth
+229. Claws

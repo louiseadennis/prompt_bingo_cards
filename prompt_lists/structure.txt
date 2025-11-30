@@ -1,0 +1,22 @@
+Style (Structure)
+ 1. Five Things 
+ 2. Documentation === types: fiction
+ 3. Second person narration === types: fiction --- exc: primeval
+ 4. Epistolary fic: Emails, letters etc. === types: fiction
+ 5. First person narration === types: fiction
+ 6. Diaries and Journals === types: fiction
+ 7. Stream of Consciousness === types: fiction
+ 8. Fix-its === types: fandom
+ 9. Remix === types: fandom, fiction
+10. Happy Endings
+11. Slow Build
+12. Vignette
+13. Repeats and Repetitions
+14. Plays and Scripts === types: fiction
+15. Kishotenketsu (Plot Without Conflict)
+16. Internet / Social Media
+17. Song Inspired
+18. Unreliable Narrator === types: fiction
+19. Outsider POV
+20. Use of Symbolism
+21. Surreality

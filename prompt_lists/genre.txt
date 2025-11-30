@@ -1,0 +1,18 @@
+Style (Genre)
+ 1. Horror --- exc: safe
+ 2. Humour
+ 3. Women Being Awesome
+ 4. Case / Mission Fic  === types: fiction
+ 5. Action / Adventure
+ 6. Drama
+ 7. Parody
+ 8. Tragedy
+ 9. Mystery
+10. Poetry === types: fiction
+11. Romance --- exc: genfic
+12. Gen --- exc: genfic, safe
+13. Light-Hearted
+14. Genderswap --- exc: safe
+15. Myth / Fable
+16. Biography / Autobiography  === types: fiction
+17. Farce

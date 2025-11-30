@@ -1,0 +1,55 @@
+DHPD Prompts
+1. DMZ
+2. Dury Building
+3. Zeph General
+4. St. Humphrey's Church
+5. the Bascombe Building
+6. Bunter Street Police Department
+7. Edmund General Hospital
+8. Salopia Row
+9. Coffin Drive
+10. Cotty Street Police Department
+11. Yea Drive Police Department
+12. Broadbelt Grove Police Department
+13. St. Lorenzo's Church
+14. Billet Auto Repair
+15. The Academy
+16. Curle Street Police Department
+17. St. Lazar's  Hospital
+18. the Flower Building
+19. Cottam Way Police Department
+20. St. Werburgh's Hospital
+21. Piegsa Place Police Department
+22. the Oxley Building
+23. the Woodbourne Building
+24. Rugglevale Walk Police Department
+25. the Pankhurst Building
+26. the Hippesley Building
+27. Swinnerton Square Police Department
+28. Brains Monroe
+29. Alpha
+30. Bravo
+31. Charlie
+32. Delta
+33. Dixie
+34. Omega
+35. Sharko
+36. Conndraka
+37. Jeff O'Neil
+38. Captain
+39. Chief
+40. Commissioner
+41. Extinction
+42. Maxwell Hammer
+43. The Penguin
+44. DCC
+45. Captain Fragger's Circus
+46. Operation Yoko Ono
+47. Fox Moldering
+48. BAM
+49. Bar Fight
+50. Christmas at Caiger
+51. Badge
+52. Ribbon
+53. The Spartans
+54. Ghost

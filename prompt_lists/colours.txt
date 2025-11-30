@@ -1,0 +1,23 @@
+Colours
+ 1. Black and White
+ 2. Sepia
+ 3. Pink (Love it, Loathe it, Embrace it, Reject it)
+ 4. Bright Colours
+5. Silver and Gold
+6. Pastel Shades
+7. Primary Colours
+8. Desaturated === types: art
+9. Colours of the Flag
+10. Neutral Colours
+11. Natural Colours
+12. Neon
+13. Monochromatic
+14. Camouflage
+15. Complementary Colours (Opposite on the Colour Wheel) === types: art
+16. Warm Colours
+17. Cool Colours
+18. Adjacent Colours on the Colour Wheel === types: art
+19. Secondary Colours (Orange, Purple, Green etc.) === types: art
+20. Accents and Highlights === types: art
+
+

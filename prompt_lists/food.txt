@@ -1,0 +1,21 @@
+Food
+1. Bread
+2. Cheese
+3. Traditional Dishes
+4. Family Recipe
+5. Meat
+6. Fruit and Vegetables
+7. Jams and Preserves
+8. Baking
+9. Sugar
+10. Salt
+11. Herbs
+12. Spices
+13. Molecular Gastronomy
+14. Pasta and Noodles
+15. Rice
+16. Potatoes
+17. Fried Food
+18. Street Food
+19. Cooking
+20. Beverages

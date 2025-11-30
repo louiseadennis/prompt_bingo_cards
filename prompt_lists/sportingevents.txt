@@ -1,0 +1,57 @@
+Olympic Sports
+1. Archery
+2. Athletics
+3. Badminton
+4. Basketball
+5. Beach Volleyball
+6. Boxing
+7. Canoe Slalom
+8. Canoe Sprint
+9. Cycling BMX
+10. Cycling Mountain Bike
+11. Cycling Road
+12. Cycling Track
+13. Diving
+14. Equestrian/Dressage
+15. Equestrian/Eventing
+16. Equestrian/Jumping
+17. Fencing
+18. Football
+19. Gold
+20. Gymnastics Artistic
+21. Gymnastics Rhythmic
+22. Handball
+23. Hockey
+24. Judo
+25. Modern Pentathlon
+26. Rowing
+27. Rugby
+28. Sailing 
+29. Shooting
+29. Swimming
+30. Synchronized Swimming
+31. Table Tennis
+32. Taekwondo
+33. Tennis
+34. Trampoline
+35. Triathlon
+36. Volleyball
+37. Water Polo
+38. Weightlifting
+39. Wrestling Freestyle
+40. Wrestling Greco-Roman
+41. Alpine Skiing
+42. Biathlon
+43. Bobleigh
+44. Cross Country Skiing
+45. Curling
+46. Figure Skating
+47. Freestlye Skiing
+48. Ice Hockey
+49. Luge
+50. Nordic Combined
+51. Short Track Speed Skating
+52. Skeleton
+53. Ski Jumping
+54. Snowboard
+55. Speed Skating

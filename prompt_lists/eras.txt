@@ -1,0 +1,12 @@
+Eras
+ 1. Pre-Cambrian
+ 2. Silurian
+ 3. Devonian
+ 4. Carboniferous
+ 5. Permian
+ 6. Triassic
+ 7. Jurassic
+ 8. Cretaceous
+ 9. Paleogene
+10. Neogene
+11. Pleistocene

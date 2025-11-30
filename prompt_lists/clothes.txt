@@ -1,0 +1,25 @@
+Clothes
+1. Shirt/Blouse
+2. Dress
+3. Skirt
+4. Lost Socks
+5. Trousers (Pants)
+6. Waistcoat (Vest)
+7. Jumper/Sweater/Cardigan
+8. All in One
+9. Coat
+10. Hat, Gloves and Scarf
+11. Cloak
+12. Underwear
+13. Thermal Underwear
+14. Protective Clothing
+15. Uniform
+16. Branded Clothing
+17. T-Shirt
+18. Jeans
+19. Shoes/Boots
+20. Nightwear
+21. Leather Jacket
+22. Sportswear
+23. Belt (and Braces)
+24. Suit and Tie

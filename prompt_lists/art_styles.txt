@@ -1,0 +1,21 @@
+Art Styles
+1. Contemporary
+2. Pop Art
+3. Cubism
+4. Art Deco
+5. Art Nouveau
+6. Impressionism
+7. Abstract
+8. Figurative
+9. Geometric
+10. Minimalist
+11. Nature
+12. Portrait
+13. Still Life
+14. Surrealism
+15. Renaissance
+16. Realism
+17. Futurism
+18. Symbolism
+19. Avant Garde
+20. Expressionism
